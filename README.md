@@ -27,4 +27,4 @@ Port 5000 will be used for testing flask application.
 # Billing Cost 
 Below is the screenshot of the billing cost of all the resources associated with this project
 
-![Azure Billing Cost](https://user-images.githubusercontent.com/110800205/191473543-b895ccb4-b455-4240-93a1-486420df929e.png)
+![Screenshot 2022-09-21 155423](https://user-images.githubusercontent.com/110800205/191480929-f4d74219-0c97-4b53-84f4-92f25b4ce5e1.png)
